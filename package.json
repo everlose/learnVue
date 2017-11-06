@@ -1,0 +1,17 @@
+{
+    "name": "learn-vue",
+    "description": "Vue.js源码分析，记录了个人学习Vue.js源码的过程中的一些心得以及收获。以及对于Vue框架，周边库的一些学习心得和个人见解",
+    "version": "1.0.0",
+    "author": "answershuto",
+    "private": true,
+    "scripts": {
+        "dev": "webpack-dev-server --port 8121 --open --hot"
+    },
+    "dependencies": {
+        "vue": "2.3.0"
+    },
+    "devDependencies": {
+        "webpack": "^3.6.0",
+        "webpack-dev-server": "^2.9.1"
+    }
+}
